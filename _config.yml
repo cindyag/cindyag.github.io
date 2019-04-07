@@ -16,9 +16,9 @@
 title: sily.me
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  sily.me
+  copyright 2019 sily.me all rights reserved
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "sily.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dbaops
 github_username:  cindyag
 
