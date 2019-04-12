@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""Corporations Are Evil""
+title:  "Corporations Are Evil"
 date:   2019-04-12 15:37:02 -0400
 categories: ["30 second storys"]
 ---
